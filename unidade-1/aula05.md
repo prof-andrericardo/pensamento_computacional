@@ -101,7 +101,7 @@ Os fluxogramas utilizam **símbolos padronizados** para representar diferentes o
 
 📌 Abaixo está o diagrama representando o algoritmo para verificar se um número é par ou ímpar:
 
-![](/home/andre/Documentos/Repos/pensamento_computacional-main/unidade-1/par_impar.png)
+![](par_impar.png)
 
 ------
 

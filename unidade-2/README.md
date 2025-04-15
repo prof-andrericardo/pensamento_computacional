@@ -2,7 +2,7 @@
 
 ------
 
-### **6️⃣ Aula 6: Introdução à Lógica Proposicional**
+### [6️⃣ Aula 6: Introdução à Lógica Proposicional](aula06.md)
 
 **6.1. O que é Lógica Proposicional?**
 
@@ -28,7 +28,7 @@
 
 ------
 
-### **7️⃣ Aula 7: Construção e Interpretação da Tabela Verdade**
+### [7️⃣ Aula 7: Construção e Interpretação da Tabela Verdade](aula07.md)
 
 **7.1. Estrutura da Tabela Verdade**
 

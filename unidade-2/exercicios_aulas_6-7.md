@@ -1,4 +1,4 @@
-# 📝 Questões de Fixação – Unidade 2: Lógica Proposicional e Tabelas Verdade
+# 📝 Teóricos: Lógica Proposicional e Tabelas Verdade
 
 ## Aulas 6 e 7
 
@@ -162,3 +162,76 @@ Questão 2
 4. **A tabela verdade permite prever o comportamento lógico de uma proposição composta.**
    - [ ] Verdadeiro
    - [ ] Falso
+
+---
+
+# 📝 Práticos: Lógica Proposicional e Tabelas Verdade
+
+## Aulas 6 e 7
+
+🎯 Habilidade: Construir tabelas verdade a partir de proposições simples e compostas.
+
+---
+
+## **🔰 Nível 1 – Proposições Simples e Conectivos Básicos**
+
+1. Construa a tabela verdade para a proposição:  
+   **¬p**
+
+2. Construa a tabela verdade para:  
+   **p ∧ q**
+
+3. Construa a tabela verdade para:  
+   **p ∨ q**
+
+4. Construa a tabela verdade para a proposição composta:  
+   **¬p ∨ q**
+
+---
+
+## **⚙️ Nível 2 – Conectivos Múltiplos e Proposições Compostas**
+
+5. Construa a tabela verdade para:  
+   **(p → q) ∧ (¬q)**
+
+6. Construa a tabela verdade para a proposição:  
+   **(p ∨ r) → (q ∧ ¬r)**
+
+7. Dada a proposição composta:  
+   **(¬p ∨ q) ↔ (p → q)**  
+   Construa a tabela verdade completa e analise o resultado final.
+
+---
+
+## **🚀 Nível 3 – Análise e Classificação de Proposições**
+
+8. Construa a tabela verdade para:  
+   **p ∨ ¬p**  
+   Ao final, classifique a proposição como:
+   - ( ) Tautologia
+   - ( ) Contradição
+   - ( ) Contingência
+
+9. Construa a tabela verdade para:  
+   **p ∧ ¬p**  
+   Ao final, classifique a proposição como:
+   - ( ) Tautologia
+   - ( ) Contradição
+   - ( ) Contingência
+
+10. Construa a tabela verdade para a proposição:  
+    **(p ∧ q) → p**  
+    Classifique o resultado final da proposição.
+
+---
+
+## ✍️ **Instruções para cada exercício**
+
+- Liste todas as **combinações possíveis de V e F** para as variáveis envolvidas.  
+- Calcule as colunas intermediárias (como ¬p, p → q, etc.)  
+- Destaque a **coluna final da proposição** composta.  
+- Classifique, quando solicitado, como **tautologia**, **contradição** ou **contingência**.
+
+---
+
+📌 *Esses exercícios desenvolvem a habilidade de raciocínio lógico formal e são fundamentais para compreender estruturas algorítmicas e tomadas de decisão em computação.* 💡
